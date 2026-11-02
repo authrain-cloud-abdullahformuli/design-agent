@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Design Agent: On-Brand Design & Motion from a Chat Thread"
+authors:
+  - family-names: Formuli
+    given-names: Abdullah
+    email: authrainmedia@gmail.com
+url: "https://github.com/authrain-cloud-abdullahformuli/design-agent"
+date-released: 2026-11-01
+license: Apache-2.0

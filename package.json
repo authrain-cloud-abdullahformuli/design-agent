@@ -1,0 +1,29 @@
+{
+  "name": "design-agent",
+  "version": "1.0.0",
+  "description": "On-brand design and motion from a chat thread. Built on Deep Agents, HyperFrames, and Slack.",
+  "type": "module",
+  "author": "Abdullah Formuli <authrainmedia@gmail.com> (https://github.com/authrain-cloud-abdullahformuli)",
+  "homepage": "https://github.com/authrain-cloud-abdullahformuli/design-agent#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/authrain-cloud-abdullahformuli/design-agent.git"
+  },
+  "bugs": {
+    "url": "https://github.com/authrain-cloud-abdullahformuli/design-agent/issues"
+  },
+  "license": "Apache-2.0",
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "keywords": [
+    "design",
+    "agent",
+    "motion",
+    "deep-agents",
+    "langchain",
+    "hyperframes",
+    "slack",
+    "ai-design"
+  ]
+}
